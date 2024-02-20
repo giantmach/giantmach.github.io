@@ -38,10 +38,10 @@
 			</form>
 
 			<nav {% if site.show_full_navigation %}class="full-navigation"{% endif %}>
-				<ul>
+				<ul><!--웰컴 페이지 = index.md 링크-->
 					<li class="nav-item top-level {% if page.url == '/' %}current{% endif %}">
 						{% assign home = site.html_pages | where: 'url', '/' | first %}
-						<a href="{{ site.baseurl }}/">{{ home.title }}테스트</a>
+						<a href="{{ site.baseurl }}/">{{ home.title }}</a>
 					</li>
 				</ul>
 
@@ -60,7 +60,7 @@
 					{% endfor %}
 				</ul>
 
-				<ul>
+				<ul><!--Change Log 페이지 링크-->
 					<li class="nav-item top-level {% if page.url == '/changelog/' %}current{% endif %}">
 						{% assign changelog = site.html_pages | where: 'url', '/changelog/' | first %}
 						<a href="{{ site.baseurl }}/changelog/">{{ changelog.title }}</a>
