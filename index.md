@@ -5,7 +5,7 @@ title: 대문
 Welcome
 ---
 
-여기는 이제 비타 
+여기는 이제 비타 비타비타
 
 웰컴 페이지는 index.md 
 This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
@@ -45,5 +45,5 @@ Sync your contact list with your phone and/or Facebook contacts. Never lose your
 
 ChatApp is available everywhere. Find out how to set it up on your all your devices.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMTU3OTk5M119
+eyJoaXN0b3J5IjpbMTE4ODIwMzg1N119
 -->
