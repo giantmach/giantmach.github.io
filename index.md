@@ -1,10 +1,13 @@
 ---
-title: 대문
+title: 오늘의 생활공부
 ---
 
-Welcome
+최근 업데이트된 문서 
 ---
  
+
+
+
 여기는 이제 비타 비타비타 추가로 저장해 보자..
 
 웰컴 페이지는 index.md 
@@ -45,5 +48,5 @@ Sync your contact list with your phone and/or Facebook contacts. Never lose your
 
 ChatApp is available everywhere. Find out how to set it up on your all your devices.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzI0OTg5NzRdfQ==
+eyJoaXN0b3J5IjpbLTgzMjkyODE5MywtMTA3MjQ5ODk3NF19
 -->
