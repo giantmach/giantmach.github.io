@@ -13,7 +13,10 @@ title: 오늘의 생활공부
 웰컴 페이지는 index.md 
 This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
   
-에디터 적용 - 웰 컴 페이지는 index.md This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
+에디터 적용 - 웰 Welcome
+---
+
+웰컴 페이지는 index.md This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
 **Edition** is perfect for documenting your product, application or service.
 It's populated with example content to give you some ideas.  
 
@@ -48,5 +51,6 @@ Sync your contact list with your phone and/or Facebook contacts. Never lose your
 
 ChatApp is available everywhere. Find out how to set it up on your all your devices.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMjkyODE5MywtMTA3MjQ5ODk3NF19
+eyJoaXN0b3J5IjpbMjExMTYwOTU5NCwtODMyOTI4MTkzLC0xMD
+cyNDk4OTc0XX0=
 -->
