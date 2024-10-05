@@ -37,8 +37,7 @@
 			</form>
 			<!-- <p>컨텐츠 상단 이거 분명히 바꾸었는데.. </p>-->
 			<nav {% if site.show_full_navigation %}class="full-navigation"{% endif %}>
-				<!-- 웰컴 페이지 노출
-				<ul>
+				<ul><!--웰컴 페이지 = index.md 링크-->
 					<li class="nav-item top-level {% if page.url == '/' %}current{% endif %}">
 						{% assign home = site.html_pages | where: 'url', '/' | first %}
 						<a href="{{ site.baseurl }}/">{{ home.title }}</a>
@@ -61,8 +60,8 @@
 						</li>
 					{% endfor %}
 				</ul>
-				<!-- 체인지 로그 노출
-				<ul>
+
+				<ul><!--Change Log 페이지 링크-->
 					<li class="nav-item top-level {% if page.url == '/changelog/' %}current{% endif %}">
 						{% assign changelog = site.html_pages | where: 'url', '/changelog/' | first %}
 						<a href="{{ site.baseurl }}/changelog/">{{ changelog.title }}</a>

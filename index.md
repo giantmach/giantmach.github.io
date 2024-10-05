@@ -1,11 +1,22 @@
 ---
-title: Welcome
+title: 오늘의 생활공부
 ---
+
+최근 업데이트된 문서 
+---
+ 
+
+
+
+여기는 이제 비타 비타비타 추가로 저장해 보자..
 
 웰컴 페이지는 index.md 
 This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
   
-에디터 적용 - 웰 컴 페이지는 index.md This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
+에디터 적용 - 웰 Welcome
+---
+
+웰컴 페이지는 index.md This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
 **Edition** is perfect for documenting your product, application or service.
 It's populated with example content to give you some ideas.  
 
@@ -39,3 +50,7 @@ Sync your contact list with your phone and/or Facebook contacts. Never lose your
 #### Devices
 
 ChatApp is available everywhere. Find out how to set it up on your all your devices.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjExMTYwOTU5NCwtODMyOTI4MTkzLC0xMD
+cyNDk4OTc0XX0=
+-->
