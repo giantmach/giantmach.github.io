@@ -2,7 +2,7 @@
 # Site
 
 title: 공부생활
-url: "https://vita.wiki"
+url:"https://vita.wiki"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
