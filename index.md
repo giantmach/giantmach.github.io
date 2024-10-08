@@ -8,7 +8,7 @@ title: 오늘의 생활공부
 
 
 
-여기는 이제 비타 비타비타 추가로 저장해 보자..
+여기는 이제 비타 비타비타 비타 추가로 저장해 보자..
 
 웰컴 페이지는 index.md 
 This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
