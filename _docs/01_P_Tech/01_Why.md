@@ -1,6 +1,6 @@
 ---
-title: 화성사업장
-category: 사업장/현장
+title: 연금테크.. 왜 하나?
+category: 연금테크
 order: 1
 ---
 

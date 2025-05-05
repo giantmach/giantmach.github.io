@@ -1,6 +1,6 @@
 ---
-title: 기흥사업장
-category: 사업장/현장
+title: 어쩌라는 건가?
+category: 연금테크
 order: 3
 ---
 

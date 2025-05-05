@@ -1,6 +1,6 @@
 ---
-title: 평택사업장
-category: 사업장/현장
+title: 연금 곶감 빼는 스킬들..
+category: 연금테크
 order: 4
 ---
 

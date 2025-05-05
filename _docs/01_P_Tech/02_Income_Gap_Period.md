@@ -1,9 +1,8 @@
 ---
-title: DSR
-category: 사업장/현장
+title: 소득 공백기의 연금 생활
+category: 연금테크
 order: 2
 ---
-
 
 [경기도 용인시 기흥구 삼성로 1번지](https://naver.me/FCbBstmi)에 위치한 삼성전자 DS부문(반도체)의 사업장중 하나이다.
 
