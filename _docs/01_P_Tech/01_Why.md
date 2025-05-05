@@ -4,13 +4,7 @@ category: 연금테크
 order: 1
 ---
 
-----------
 
-목차
-
-목차
-
-----------
 
 ## 연금 플래닝.. 3층 연금.. 연금 3총사 관리...
 
@@ -28,7 +22,7 @@ order: 1
 
 
 
-![이부분이 캡션 영역이다](https://dimg.donga.com/wps/NEWS/IMAGE/2023/07/23/120373746.2.jpg)
+![소득 공백기 대처 방법 관련 통계 - 이미지 설명](https://dimg.donga.com/wps/NEWS/IMAGE/2023/07/23/120373746.2.jpg)
 
 
 
@@ -44,7 +38,7 @@ order: 1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODQ1MjY2Nyw4NDg3MjkxODYsLTIxMT
+eyJoaXN0b3J5IjpbLTQ2MzQ1MjY5Miw4NDg3MjkxODYsLTIxMT
 gyMjI3ODYsLTc2OTYzNzg5NCwyMTA3MTQ4MjkxLDEwNDU2NDgx
 NDhdfQ==
 -->
