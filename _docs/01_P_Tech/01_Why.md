@@ -34,11 +34,12 @@ order: 1
 
 -   [경기도 화성시 삼성전자로 1(반월동)](https://naver.me/FXZkeF6D)에 위치한 삼성전자 DS부문(반도체)의 사업장중 하나이다.
     
-    ![캡션...](https://images.samsung.com/is/image/samsung/p5/sec/aboutsamsung/2019/company/divisions/1126/samsung-sec-hwasung-office.jpg?)
+    ![캡션](https://images.samsung.com/is/image/samsung/p5/sec/aboutsamsung/2019/company/divisions/1126/samsung-sec-hwasung-office.jpg?$ORIGIN_JPG$)
     
     이미지 출처: [삼성 공홈 사업장 소개 페이지](https://www.samsung.com/sec/aboutsamsung/company/divisions/)
+![이부분이 캡션 영역이다](https://dimg.donga.com/wps/NEWS/IMAGE/2023/07/23/120373746.2.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDgxOTY3NjUsODQ4NzI5MTg2LC0yMT
+eyJoaXN0b3J5IjpbLTEzMTY5MjMwMjQsODQ4NzI5MTg2LC0yMT
 E4MjIyNzg2LC03Njk2Mzc4OTQsMjEwNzE0ODI5MSwxMDQ1NjQ4
 MTQ4XX0=
 -->
